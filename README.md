@@ -1,28 +1,52 @@
 ## Hi, I'm Rishabh Dixit
 
-Software Engineer specializing in Full Stack Development, AI/ML, Cloud Technologies, and Identity & Access Management. I build scalable web applications, secure authentication systems, and API-driven solutions using modern technologies.
+**Software Engineer | Python Developer | GenAI & Agentic AI Developer | Full Stack Developer**
 
-- Strong foundation in Python, JavaScript, C++, Node.js, Flask, Django, and React.js  
-- Experienced in REST API development, Authentication & Authorization, and Database Design  
-- Skilled with MySQL, MongoDB, Docker, Kubernetes, AWS, Git, and Linux  
-- Passionate about AI-assisted development and system design 
-- Focused on writing clean, scalable, and maintainable code
+I build **AI-powered, scalable, and secure software systems** combining backend engineering, Generative AI, Agentic AI, RAG pipelines, and modern cloud technologies. I work with Python and JavaScript ecosystems to develop production-ready APIs, intelligent applications, authentication systems, and AI-driven solutions.
+
+### Technical Skills
+
+- **Languages:** Python, JavaScript, TypeScript, C++, SQL
+- **Backend:** FastAPI, Flask, Django, Node.js, Express.js, REST APIs
+- **Frontend:** React.js, Next.js, HTML, CSS, Tailwind CSS
+- **Generative AI:** LLMs, Prompt Engineering, AI Agents, Agentic AI, AI Workflows
+- **RAG & AI Engineering:** Retrieval-Augmented Generation (RAG), Embeddings, Vector Databases, Semantic Search, Document Intelligence, Knowledge Bases
+- **AI Frameworks:** LangChain, LangGraph, CrewAI
+- **AI/ML:** Machine Learning, NLP, Model Integration, AI/ML Pipelines
+- **AI APIs & Models:** Hugging Face APIs, LLM APIs, OpenAI-compatible APIs
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis
+- **Authentication & Security:** JWT, OAuth, Authentication, Authorization, RBAC
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD, GitHub Actions, Linux
+- **Development:** Git, GitHub, API Design, System Design, Database Design, Microservices
 
 ### What I'm Currently Working On
-- Full Stack Web Applications
-- AI & Machine Learning Projects
-- Authentication & Role-Based Access Control Systems
-- Cloud Deployment & DevOps Practices
+
+- **Generative AI Applications** using LLMs, RAG, embeddings, and vector databases
+- **Agentic AI Systems** with autonomous agents, tool calling, workflows, and multi-agent architectures
+- **Python Backend Development** using FastAPI, Flask, and Django
+- **Full Stack Applications** using React.js, FastAPI, Node.js, and PostgreSQL
+- **AI-powered Enterprise Applications** with RAG, knowledge bases, and intelligent automation
+- **Authentication & RBAC Systems** for secure applications
+- **Cloud Deployment & DevOps** using AWS, Docker, Kubernetes, and CI/CD
+
+### AI & Agentic AI Focus
+
+**Generative AI • Agentic AI • LLM Applications • RAG • LangChain • LangGraph • CrewAI • AI Agents • Multi-Agent Systems • Prompt Engineering • Embeddings • Vector Databases • Semantic Search • Hugging Face • NLP • AI Automation**
+
+### Engineering Focus
+
+**Python Development • Backend Engineering • Full Stack Development • REST API Development • System Design • Database Engineering • Cloud Computing • DevOps • Authentication & Authorization • Scalable Software Architecture**
 
 ### Interests
-Artificial Intelligence • Machine Learning • Cloud Computing • Backend Engineering • System Design
+
+Artificial Intelligence • Generative AI • Agentic AI • Machine Learning • LLMs • RAG • AI Agents • Backend Engineering • Python Development • Cloud Computing • DevOps • System Design • Distributed Systems
 
 ### Connect With Me
-- LinkedIn: www.linkedin.com/in/rishabh0024
-- Email: rishabhdixit392@gmail.com
 
-> Building secure, scalable, and impactful software solutions while continuously learning and exploring emerging technologies.
+- LinkedIn: [www.linkedin.com/in/rishabh0024](http://www.linkedin.com/in/rishabh0024)
+- Email: [rishabhdixit392@gmail.com](mailto\:rishabhdixit392@gmail.com)
 
+> Building intelligent, secure, and scalable software systems while continuously exploring the intersection of **AI, software engineering, and cloud technologies**.
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh0024) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishabhdixit392@gmail.com) 
@@ -36,5 +60,3 @@ Artificial Intelligence • Machine Learning • Cloud Computing • Backend Eng
 
 ---
 [![](https://komarev.com/ghpvc/?username=rishabh0024&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
